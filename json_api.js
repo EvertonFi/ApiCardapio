@@ -34,7 +34,7 @@
         "Nome_Prato": "Burguer Australiano",
         "Preco": "R$ 14,99",
         "idPrato": "4",
-        "img": ""
+        "img": "/imagens/1.png"
       },
       {
         "Nome_Categoria": "Adicionais",
@@ -43,7 +43,7 @@
         "Nome_Prato": "Batata Frita (Porção)",
         "Preco": "R$ 6,99",
         "idPrato": "5",
-        "img": ""
+        "img": "/imagens/1.png"
       },
       {
         "Nome_Categoria": "Bebidas",
@@ -52,7 +52,7 @@
         "Nome_Prato": "Coca-Cola Lata 220ml",
         "Preco": "R$ 3,00",
         "idPrato": "6",
-        "img": ""
+        "img": "/imagens/1.png"
       },
       {
         "Nome_Categoria": "Bebidas",
@@ -61,7 +61,7 @@
         "Nome_Prato": "Guarana Antártica Lata 220ml",
         "Preco": "R$ 3,00",
         "idPrato": "7",
-        "img": ""
+        "img": "/imagens/1.png"
       },
       {
         "Nome_Categoria": "Adicionais",
@@ -70,7 +70,7 @@
         "Nome_Prato": "Cebola Caramelizada",
         "Preco": "R$ 2,00",
         "idPrato": "8",
-        "img": ""
+        "img": "/imagens/1.png"
       },
       {
         "Nome_Categoria": "Adicionais",
@@ -79,7 +79,7 @@
         "Nome_Prato": "Queijo",
         "Preco": "R$ 2,00",
         "idPrato": "9",
-        "img": ""
+        "img": "/imagens/1.png"
       }
     ]
   }
