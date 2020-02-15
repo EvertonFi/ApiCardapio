@@ -59,36 +59,6 @@
       "idPrato": "7",
       "img": "",
       "idCategoria": "2"
-    },
-    {
-      "Nome_Categoria": "Adicionais",
-      "Acompanhamento": "Uma porção de batata frita.",
-      "Descricao": "Sabe aquela sensação de comer batata fria que acabou de sair? Venha experimentar esse incrível sabor com essa nossa porção.",
-      "Nome_Prato": "Batata Frita (Porção)",
-      "Preco": "R$ 6,99",
-      "idPrato": "5",
-      "img": "",
-      "idCategoria": "3"
-    },
-    {
-      "Nome_Categoria": "Adicionais",
-      "Acompanhamento": "Adiciona no seu burguer Cebola Caramelizada",
-      "Descricao": "Para os amantes da cebola não deixe de pedir o seu burguer com adicional de Cebola Caramelizada, é de dar água na boca.",
-      "Nome_Prato": "Cebola Caramelizada",
-      "Preco": "R$ 2,00",
-      "idPrato": "8",
-      "img": "",
-      "idCategoria": "3"
-    },
-    {
-      "Nome_Categoria": "Adicionais",
-      "Acompanhamento": "Adiciona no seu burguer uma fatia de Queijo.",
-      "Descricao": "Sabe aquela vontade de comer bastante queijo na burguer? Não fique só na vontade, peça seu burguer com adicional de queijo e aproveite ainda mais ele.",
-      "Nome_Prato": "Queijo",
-      "Preco": "R$ 2,00",
-      "idPrato": "9",
-      "img": "",
-      "idCategoria": "3"
     }
   ]
 }
