@@ -7,7 +7,8 @@
       "Nome_Prato": "Tradicional Burguer",
       "Preco": "R$ 12,99",
       "idPrato": "1",
-      "img": "10.0.0.105/imagens/001.png"
+      "img": "10.0.0.105/imagens/001.png",
+      "idCategoria": "1"
     },
     {
       "Nome_Categoria": "Hambúrguer",
@@ -16,7 +17,8 @@
       "Nome_Prato": "Burguer Duplo",
       "Preco": "R$ 15,99",
       "idPrato": "2",
-      "img": "10.0.0.105/imagens/002.png"
+      "img": "10.0.0.105/imagens/002.png",
+      "idCategoria": "1"
     },
     {
       "Nome_Categoria": "Hambúrguer",
@@ -25,7 +27,8 @@
       "Nome_Prato": "Burguer Grego da Casa",
       "Preco": "R$ 12,99",
       "idPrato": "3",
-      "img": "10.0.0.105/imagens/001.png"
+      "img": "10.0.0.105/imagens/001.png",
+      "idCategoria": "1"
     },
     {
       "Nome_Categoria": "Hambúrguer",
@@ -34,7 +37,8 @@
       "Nome_Prato": "Burguer Australiano",
       "Preco": "R$ 14,99",
       "idPrato": "4",
-      "img": ""
+      "img": "",
+      "idCategoria": "1"
     },
     {
       "Nome_Categoria": "Bebidas",
@@ -43,7 +47,8 @@
       "Nome_Prato": "Coca-Cola Lata 220ml",
       "Preco": "R$ 3,00",
       "idPrato": "6",
-      "img": ""
+      "img": "",
+      "idCategoria": "2"
     },
     {
       "Nome_Categoria": "Bebidas",
@@ -52,7 +57,8 @@
       "Nome_Prato": "Guarana Antártica Lata 220ml",
       "Preco": "R$ 3,00",
       "idPrato": "7",
-      "img": ""
+      "img": "",
+      "idCategoria": "2"
     },
     {
       "Nome_Categoria": "Adicionais",
@@ -61,7 +67,8 @@
       "Nome_Prato": "Batata Frita (Porção)",
       "Preco": "R$ 6,99",
       "idPrato": "5",
-      "img": ""
+      "img": "",
+      "idCategoria": "3"
     },
     {
       "Nome_Categoria": "Adicionais",
@@ -70,7 +77,8 @@
       "Nome_Prato": "Cebola Caramelizada",
       "Preco": "R$ 2,00",
       "idPrato": "8",
-      "img": ""
+      "img": "",
+      "idCategoria": "3"
     },
     {
       "Nome_Categoria": "Adicionais",
@@ -79,7 +87,8 @@
       "Nome_Prato": "Queijo",
       "Preco": "R$ 2,00",
       "idPrato": "9",
-      "img": ""
+      "img": "",
+      "idCategoria": "3"
     }
   ]
 }
